@@ -36,8 +36,3 @@ This project analyzes the UCI Autism Spectrum Disorder Screening Data for Childr
 - Data visualization
 - Machine learning model training
 - Model evaluation
-
-
-## Author
-
-**Muhammad Hassan Amir**
